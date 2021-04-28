@@ -1,9 +1,9 @@
 .bg-primary {
-    background-color: blue;
+    background-color: rgb(202, 139, 253);
 }
 
 section {
-    background-color: green;
+    background-color: rgb(255, 245, 153);
 }
 
 section:nth-child(2n+1) {
